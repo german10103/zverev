@@ -1,0 +1,14 @@
+ Том в устройстве C не имеет метки.
+ Серийный номер тома: 7AB1-D5E3
+
+ Содержимое папки C:\Windows
+
+14.09.2024  22:09    <DIR>          BitLockerDiscoveryVolumeContents
+07.12.2019  14:31    <DIR>          Media
+07.12.2019  14:14    <DIR>          Downloaded Program Files
+19.03.2024  11:51    <DIR>          Fonts
+07.02.2026  00:50    <DIR>          Installer
+01.12.2025  06:43    <DIR>          assembly
+18.02.2026  01:05            67 584 bootstat.dat
+               1 файлов         67 584 байт
+               6 папок  608 866 430 976 байт свободно
